@@ -1,1 +1,284 @@
-[]
+[
+  {
+    "id": "g1",
+    "number": 1,
+    "name": "Aalto Veera",
+    "role": "goalie",
+    "positions": [
+      "MV"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "g2",
+    "number": 30,
+    "name": "Korhonen Minea",
+    "role": "goalie",
+    "positions": [
+      "MV"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "g3",
+    "number": 92,
+    "name": "Lepistö Ronja",
+    "role": "goalie",
+    "positions": [
+      "MV"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p1",
+    "number": 4,
+    "name": "Heinonen Siiri",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p2",
+    "number": 6,
+    "name": "Järvinen Neela",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p3",
+    "number": 8,
+    "name": "Mäkinen Adele",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p4",
+    "number": 10,
+    "name": "Laine Inka",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p5",
+    "number": 11,
+    "name": "Niemi Ellen",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p6",
+    "number": 14,
+    "name": "Salmi Amalia",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p7",
+    "number": 15,
+    "name": "Hiltunen Iita",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p8",
+    "number": 18,
+    "name": "Rautiainen Hilla",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p9",
+    "number": 20,
+    "name": "Lehtonen Aava",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p10",
+    "number": 21,
+    "name": "Koskinen Oona",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p11",
+    "number": 23,
+    "name": "Rantanen Aino",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p12",
+    "number": 24,
+    "name": "Kinnunen Lilja",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p13",
+    "number": 27,
+    "name": "Pitkänen Nella",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p14",
+    "number": 28,
+    "name": "Karjalainen Enni",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p15",
+    "number": 29,
+    "name": "Kallio Noora",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p16",
+    "number": 59,
+    "name": "Seppälä Lumi",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p17",
+    "number": 61,
+    "name": "Väisänen Alina",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  },
+  {
+    "id": "p18",
+    "number": 75,
+    "name": "Savolainen Pihla",
+    "role": "player",
+    "positions": [
+      "VH",
+      "KH",
+      "OH",
+      "VP",
+      "OP"
+    ],
+    "captaincy": "none"
+  }
+]
