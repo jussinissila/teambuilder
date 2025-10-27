@@ -19,7 +19,16 @@ export const openRosterPdfPreview = (players, options = {}) => {
   const teamName = options.teamName ? String(options.teamName).trim() : "";
   const title = options.title ? String(options.title).trim() : "Pelaajaluettelo";
 
-  const rows = players
+  const sortedPlayers = [...players].sort((a, b) => {
+    const aNumber = parseInt(a.number ?? 0, 10);
+    const bNumber = parseInt(b.number ?? 0, 10);
+    if (Number.isFinite(aNumber) && Number.isFinite(bNumber) && aNumber !== bNumber) {
+      return aNumber - bNumber;
+    }
+    return String(a.name ?? "").localeCompare(String(b.name ?? ""));
+  });
+
+  const rows = sortedPlayers
     .map((player) => {
       const number = escapeHtml(player.number);
       const role = escapeHtml(formatRoleCell(player));
